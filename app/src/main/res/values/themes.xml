@@ -1,0 +1,9 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.SoundWhip" parent="Theme.Design.NoActionBar">
+    <!-- Customize your light theme here. -->
+    <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+</style>
+
+<style name="Theme.SoundWhip"  parent="Base.Theme.SoundWhip" />
+</resources>
