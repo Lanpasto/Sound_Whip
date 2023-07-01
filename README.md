@@ -18,6 +18,9 @@ MainActivity: Головна активність програми, яка ін�
 
 
 ![XRecorder_01072023_151233 (online-video-cutter com) (1)](https://github.com/Lanpasto/Sound_Whip/assets/77079137/2d881bde-ee57-438f-8e09-90611cdeca07)
+
+
+
 Відео:
 https://github.com/Lanpasto/Sound_Whip/assets/77079137/7aadfaa4-ae8a-4723-90c8-ac51e6102bd2
 
